@@ -10532,7 +10532,7 @@ button.toast-close-button {
   font-size: 12px;
   color: #AEB2B7;
 }
-#nav a:hover {
+#nav a:hover, #nav a:focus, #nav a:active {
   text-decoration: none;
 }
 #nav > li {
